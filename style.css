@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap');
+
+body{
+    background-color: cadetblue;
+    font-family: 'Rowdies', cursive;
+    text-align: center;
+    font-size: 40px;
+}
+.second.container{
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+
+.flexbox-item-1{
+    height: 100px;
+}
+
+.flexbox-item-2{
+    height: 200px;
+}
+
+.number{
+    background-color: aliceblue;
+    font-size: 100px;
+}
+
+.btn{
+    font-size: 30px;
+    border-radius: 10%;
+    background-color: aliceblue;
+    
+}
+
+.btn:hover{
+color: #000000;
+background-color: #ffffff;
+}
+
+
+.btn.tryAgain{
+
+margin-top: 8%;
+}
+
+input.guessNum{
+width: 200px;
+height: 40px;
+font-size: 30px;
+font-weight: bold;
+text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
